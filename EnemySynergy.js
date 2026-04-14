@@ -1,7 +1,7 @@
 /*:
  * @target MZ
  * @plugindesc 적 그룹 시너지 시스템 (Enemy Synergy System)
- * @author Gemini
+ * @author Limpid
  *
  * @help EnemySynergy.js
  *
