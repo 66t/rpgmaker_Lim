@@ -1,7 +1,7 @@
 /*:
  * @target MZ
- * @plugindesc 舒尔特方格小游戏（纯净精简版 - 保存秒数）
- * @author Gemini
+ * @plugindesc 舒尔特方格小游戏
+ * @author limpid
  *
  * @help SchulteGrid.js
  *
